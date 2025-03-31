@@ -1,5 +1,5 @@
 # Master-Thesis-Data-Science
-Code and data used within master thesis context. 
+This GitHub repo contains the code that was used for conducting master thesis research for the master Information Studies (DS) at the University of Amsterdam.
 - Data was gathered with notebook: Webscraper_Indeed_GenAI_Jobs(1).ipynb
 - Data pre-processing through notebook: Pre_Processing(1).ipynb
 - Reference set was made through: Updating_Reference_set.ipynb
